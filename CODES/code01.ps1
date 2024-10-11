@@ -3,4 +3,7 @@
 
 # Gathers PS Current Version
 
-$PS
+$PSversionTable.PSVersion
+
+write-host "Final Test"
+
